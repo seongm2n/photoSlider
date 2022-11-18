@@ -27,9 +27,29 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 😎구현기능
-기능1
-기능2
 
-배운 점 & 아쉬운 점 
+swiper.js와 swiper.css의 도움을 받았음
 
+• 기능 1 </br>
+메인 사진에 커서를 갖다대면 줌인 줌아웃이 됨
+
+• 기능 2</br>
+사진을 클릭했을 때도 슬라이드 기능이 작동한다.
+
+• 기능 3</br>
+슬라이드를 하게되면 페이지 수가 바뀜
+
+• 기능 4 </br>
+모바일 환경에서도 볼 수 있게 반응형으로 만듦
+
+
+🫠 배운 점 🫠
+
+swiper api와 demo를 사용해서 빠르게 웹사이트를 만들어낼 수 있었음
+
+
+🫠 아쉬운 점 🫠
+
+아직 손이 느려 완벽하게는 못했다는 것과 부족함이 보였다는 것</br>
+js를 작성할 때 구글이 없다면 못했을 것이라는 아쉬움이 ㅠㅜ
 
